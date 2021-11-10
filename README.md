@@ -1,12 +1,12 @@
-***
+
 # Title: Origins of Opinions and Their Influences
-***
+
 
 ## Abstract:
 
 > In this project, we study the link between opinions, time and people. We would like to tell the story of how one’s speech is influenced by who they are, and how does that end up shaping their opinions versus external factors. However, if external factors are more influential, and if one’s opinion is just a derivative of what has already been said, then the question would instead be focused on finding the originator of that initial thought. Therefore, studying sentence structures and their content will help us study the possible origins of ideas and put to bed the age-old question of whether people could be placed in boxes. 
 
-***
+
 
 ## Research Questions:
 
@@ -18,14 +18,14 @@
 
 > 4.	*Tracing back the originator of an idea/opinion:* There exists a hypothesis on how no idea is original. All individual ideas are just a reiteration of some initial idea. To test this theory, we would like to trace back the spread of an idea through quotes, to find out who was the first person to utter it.
 
-***
+
 
 ## Additional Datasets:
 > -	Wikidata: Since we are studying the link between quotes and speakers’ profile, we intend to use Wikidata that will provide us with such information. It will be used to answer the first research question.
 
 > -	Twitter data: To track people’s change in opinions, we would require a series of quotes from each individual. In cases when the quotebank does not have enough quotes by a certain individual, we can enrich our dataset by using tweets. 
 
-***
+
 
 ## Methods:
 
@@ -37,7 +37,7 @@
 
 > 4.	
 
-***
+
 
 ## Timeline:
 
@@ -62,7 +62,6 @@
 > 4.	Week 4: 
 
 
-***
 
 ## Team Organization: 
 
