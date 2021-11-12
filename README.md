@@ -43,10 +43,10 @@
 
 >1.	Week 1:
 >       1. Preprocess the data:
-        *	Remove samples with missing unknown authors.
+>       *      Remove samples with missing unknown authors.
         *	Remove duplicate quotes. 
         *	Combine authors with different names under one name, e.g., Donald Trump and President Donald Trump.
-    *	Prepare the data for the RNN: 
+>      2. Prepare the data for the RNN: 
         *	Extract the output vectors from the Wikidata. 
         *	Map the categorical vector into the Euclidean space.
     *	Prepare the data for opinion mining:
