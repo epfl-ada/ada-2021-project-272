@@ -42,16 +42,16 @@
 ## Timeline:
 
 >1.	Week 1:
->      1. Preprocess the data:
+>    * Preprocess the data:
 >         * Remove samples with missing unknown authors.
 >         * Remove duplicate quotes. 
 >         *	Combine authors with different names under one name, e.g., Donald Trump and President Donald Trump.
->      2. Prepare the data for the RNN: 
+>    * Prepare the data for the RNN: 
 >         *	Extract the output vectors from the Wikidata. 
 >         *	Map the categorical vector into the Euclidean space.
->      3. Prepare the data for opinion mining:
+>    * Prepare the data for opinion mining:
 >         *	Split quotes into the three specified topics, and disregard those that deal with different topics.  
->    4. 	Extract extra quotes from the Twitter data.
+>    *	Extract extra quotes from the Twitter data.
 > 2.	Week 2: 
 >    *	Train the RNN. 
 >    *	Run opinion mining on the selected quotes. 
@@ -60,8 +60,8 @@
 >    *	Cluster speakers into sub-groups and study distributions of the opinions in each sub-group. 
 >    *	Study origins of some catch phrases.
 >4.	Week 4: 
- >   *   Trace back first appearance of catch phrase.
- >   *   Check similar quotes on same subject by each speaker.
+>    *   Trace back first appearance of catch phrase.
+>    *   Check similar quotes on same subject by each speaker.
 
 
 
