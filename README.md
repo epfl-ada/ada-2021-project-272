@@ -53,9 +53,9 @@
 >         *	Split quotes into the three specified topics, and disregard those that deal with different topics.  
 >    *	Extract extra quotes from the Twitter data.
 >2.	Week 2: 
->   *	Train the RNN. 
->   *	Run opinion mining on the selected quotes. 
->   *	Study how individual opinions have changed over time. 
+>    *	Train the RNN. 
+>    *	Run opinion mining on the selected quotes. 
+>    *	Study how individual opinions have changed over time. 
 >3.	Week 3:  
 >    *	Cluster speakers into sub-groups and study distributions of the opinions in each sub-group. 
 >    *	Study origins of some catch phrases.
