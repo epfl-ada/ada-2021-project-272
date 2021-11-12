@@ -35,7 +35,7 @@
 
 > 3.	To check whether people with similar backgrounds tend to have the same opinions, we cluster the different speakers into different sub-groups and check the distribution of opinions on the aforementioned topics. If we see the distribution is centered, then we can conclude that sub-groups tend to have similar views. 
 
-> 4.	
+> 4.	To study the origin of an idea based on how it was said, i.e., some catch phrase, we could look back in time to the first person who ever used said catch phrase. To verify that person is the true originator, we would compare the idea implied in the phrase with other quotes. For example, to trace back that Trump was the originator of the phrase "build a wall", we would need to verify that not only was he the first person to say it, but also he was actively promoting the idea of building a wall in his speeches. 
 
 
 
@@ -55,17 +55,24 @@
 > 2.	Week 2: 
     -	Train the RNN. 
     -	Run opinion mining on the selected quotes. 
-    -	Study how individual opinion has changed over time. 
-    -	Cluster speakers into sub-groups and study distributions of the opinions in each sub-group. 
+    -	Study how individual opinions have changed over time. 
 >3.	Week 3:  
-    -	
-> 4.	Week 4: 
+    -	Cluster speakers into sub-groups and study distributions of the opinions in each sub-group. 
+    -	Study origins of some catch phrases.
+>4.	Week 4: 
+    -   Trace back first appearance of catch phrase.
+    -   Check similar quotes on same subject by each speaker.
 
 
 
 ## Team Organization: 
 
-> 1.	Antoine
-> 2.	Elsa
-> 3.	Nataliya
-> 4.	Tikhon
+> 1.	Antoine: prepare data for opinion mining. Run opinion mining on quotes. Trace original catch phrase.
+> 2.	Elsa: Prepare data for RNN. Train RNN. Organize the data story.
+> 3.	Nataliya: Preprocess the data. Run clustering algorithm. Check similar quotes to the catch phrase.
+> 3.	Nataliya: Preprocess the data. Run clustering algorithm. Check similar quotes to the catch phrase.
+> 4.	Tikhon: Extract twitter quotes. Study evolution of opinions. Organize the data story.
+
+## Questions to TAs:
+> We are not sure whether all the ideas we have are too much. Instead of working on the four ideas, should we instead focus our project on maybe two of them? Or are the four ideas together feasible for one project?
+
