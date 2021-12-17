@@ -1,6 +1,6 @@
 
 # Title: Origins of Opinions and Their Influences
-
+[data story](https://antebachmann.github.io/Emotiolitics/)
 
 ## Abstract:
 
@@ -73,5 +73,3 @@
 > 3.	Nataliya: Preprocess the data. Run clustering algorithm. Check similar quotes to the catch phrase.
 > 4.	Tikhon: Extract twitter quotes. Study evolution of opinions. Organize the data story.
 
-## Questions for TAs:
-> We are not sure whether all the ideas we have are too much. Instead of working on the four ideas, should we instead focus our project on maybe two of them? Or are the four ideas together feasible for one project?
