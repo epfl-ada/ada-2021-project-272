@@ -2,6 +2,13 @@
 # Title: Origins of Opinions and Their Influences
 [data story](https://antebachmann.github.io/Emotiolitics/)
 
+## Structure of the project
+The project can be split into three main steps
+1. **Extracting data from the Quotebank and wikidata.** Code we used for this is in the notebook *Preprocessing*. And files that were extracted are in the */data* folder.
+2. **Sentimental analysis.** For this purpose we used a *Sentiment analysis* notebook.
+3. **Analysis.** We did three different analyses (over the data, years and speakers) and used three different notebooks for it respectively (*Comparing issues*, *Comparing epoch*, *Comparing people*).
+
+
 ## Abstract:
 
 > In this project, we study the link between opinions, time and people. We would like to tell the story of how one’s speech is influenced by who they are, and how does that end up shaping their opinions versus external factors. However, if external factors are more influential, and if one’s opinion is just a derivative of what has already been said, then the question would instead be focused on finding the originator of that initial thought. Therefore, studying sentence structures and their content will help us study the possible origins of ideas and put to bed the age-old question of whether people could be placed in boxes.
